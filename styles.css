@@ -1,0 +1,26 @@
+html, body {
+    margin: 0;
+    padding: 0;    
+}
+
+.background {
+    background: linear-gradient(to left top,pink, purple, blue);
+    background-attachment: fixed;
+}
+
+.title {
+    background-color: #BD81FF; 
+    color: #e200ff;
+    text-align: center;
+    font-size: 52px;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.links {
+    font-size: 32px;
+    text-align: left;
+    color: hsl(257, 100%, 50%);
+    background-color: #3DFF4A;
+
+}
